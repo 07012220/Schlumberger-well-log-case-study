@@ -1,0 +1,11 @@
+layer1_min=2605, layer1_max=2794;
+layer2_min=2795, layer2_max=3312;
+layer3_min=3588, layer3_max=3710;
+
+GR_max=98.408, GR_min=0.045;
+phi_nsh=0.416;phi_dsh=0.218;
+phi_M1=2.65,phi_M2=2.6,phi_F=1;
+DT_m=55.5,DT_f=189;
+
+R0=0.279, m=1.9, a=0.8;
+Rt=R0, Rw=0.0468, Rsh=1.949,Rmf=0.0186;
